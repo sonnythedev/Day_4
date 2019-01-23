@@ -1,0 +1,33 @@
+Today we will explore the following:
+
+1.Various logical statement: if, elseif, while, do while, switch and more
+2. We will get into ternery statement(shorter syntax for if else statements)
+
+3. We will get into es6 fat arrow functions... What's the advantage of using it. 
+
+4. Cover reduce function on array
+
+5. We will DO more string and array algorithms
+
+   1. Write a function that calculates factorial of a number.
+   For example, fact(5) should be 5*4*3*2*1=120. First Write with for/while loop. Then write a recursive version of the function
+
+   2. Write a function that checks if a number is prime or not. A prime number is only divisible by that number and 1 only. 
+
+   3. Write a function that returns the last item of the array, without modifying the array. Modify this function to return first item and middle item as well. 
+
+   4. Write a function that takes in an array of number and returns the average of the numbers. The return type should be number. (also make sure items are converted to number first)
+
+   5. Write a function that takes in an array and returns the maximum and minimum value. The return type should be maximum_minimum. For example, [100,2,1,3,4,5] should return 100_1 . Try to do this in one loop.
+
+   
+
+   *** Demo the try catch exception in javascript
+
+   If more time remaining, then cover various math functions.
+
+
+
+
+
+
